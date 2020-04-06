@@ -17,6 +17,8 @@ print(f'Hello, my name is {name} and I am {age}')
 # String methods
 s = 'Hello world'
 
-
+arg1 = 'I like red color'
+arg2 = arg1.replace('red', 'blue')
+print(arg2)
 
 
