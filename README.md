@@ -1,5 +1,5 @@
 ## DataStructures-Algorithms
-# Searching, Sorting and Analysis
+# Searching, Sorting and Analysis (706 mins = 11.8 hours)
 Sorting & Searching: Why bother with these simple tasks?
 	Sorting & Searching : why bother with these simple tasks? 17 mins
 Insertion Sort
