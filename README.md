@@ -310,3 +310,61 @@ Solved Problems for Graphs: Shortest Paths
 	Solved Problem 83 mins
 	Solved Problem 911 mins
 	Solved problem 107 mins
+
+# (3) AAIP Algorithms (640 mins = 10.7 hours)
+
+Why study DS and Algorithms?
+	Why study DS and Algorithms? 20 mins
+Solving Recurrences
+ Recursion tree method 15 mins
+ Master theorem 21 mins
+ Extended Master Theorem 9 mins
+ Inadmissible cases & Shortcuts 6 mins
+ Substitution method. 15 mins
+Recursion in programming
+ Factorial: Time and Space complexity 21 mins
+ Recursion vs iteration 7 mins
+ Tail recursion/Tail-Call Optimization 14 mins
+Solved Problems of Solving Recurrences & Recursion
+ Solved Problem 14 mins
+ Fibonacci: Time Complexity7 mins
+ Solved Problem 26 mins
+ Solved Problem 37 mins
+ Solved Problem 4 + Master Theorem Shortcut6 mins
+ Solved Problem 53 mins
+ Solved Problem 64 mins
+ Solved Problem 75 mins
+ Solved Problem 88 mins
+ Solved Problem 98 mins
+ Solved Problem 107 mins
+Linear Search
+ Linear Search: intuition and code10 mins
+Binary Search
+	Intuition19 mins
+	Pseudo code9 mins
+Dynamic Programming
+Introduction: Fibonacci numbers34 mins
+Longest Common Subsequence (LCS) 33 mins
+LCS: Example 21 mins
+0/1 Knapsack31 mins
+0/1 Knapsack: example21 mins
+Matrix Chain Multiplication36 mins
+Subset-sum problem23 mins
+Traveling Salesman problem20 mins
+Bellman Ford Algorithm as Dynamic Programming18 mins
+Floyd Warshall Algorithm as Dynamic Programming12 mins
+Greedy Algorithms
+Greedy Algorithms: Fractional Knapsack30 mins
+Solved Problem 110 mins
+Huffman Coding for Data Compression31 mins
+Solved Problem 27 mins
+Solved Problem 34 mins
+Solved Problem 44 mins
+Job Sequencing with deadlines16 mins
+Solved Problem 55 mins
+Optimal Merge Pattern14 mins
+Solved Problem 65 mins
+Solved Problem 74 mins
+Minimum Spanning Trees: Prim's algorithm20 mins
+Minimum Spanning Trees: Greedy Kruskal's Algorithm15 mins
+Greedy Algorithm: Dijkstra's algorithm16 mins
