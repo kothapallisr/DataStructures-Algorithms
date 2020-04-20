@@ -368,3 +368,275 @@ Solved Problem 74 mins
 Minimum Spanning Trees: Prim's algorithm20 mins
 Minimum Spanning Trees: Greedy Kruskal's Algorithm15 mins
 Greedy Algorithm: Dijkstra's algorithm16 mins
+
+# (4) AAIP Problem Solving (2986 mins = 49.8 hours)
+
+Problems on Dynamic programming
+Largest sum contiguous sub array 46 mins
+Longest Palindromic sub sequence50 mins
+climbing stairs problem16 mins
+nth ugly number 38 mins
+Rod cutting Problem25 mins
+Coin Change Problem25 mins
+Minimum Cost path Problem19 mins
+Fill a N*4 wall with 1*4 bricks problem23 mins
+Levenstein/Edit Distance Problem29 mins
+Egg dropping Problem34 mins
+Word Break Problem21 mins
+Longest Increasing Subsequence 20 mins
+Longest Increasing Subsequence (O(nlogn))27 mins
+Subset Sum Problem20 mins
+Count all possible paths in a Grid17 mins
+Write a Program for Maximum size square sub-matrix with all 1s1 mins
+Longest Valid Parentheses1 mins
+Binary Tree Cameras1 mins
+Write a Program for Partition problem1 mins
+Decode Ways1 mins
+Write a Program for Maximum sum rectangle in a 2D matrix1 mins
+Problems on Linked Lists
+Find Kth Node from end of linked list 15 mins
+Remove Nth node from End of a linked list23 mins
+Assignment Problem 3 on kth node of the linked list from the end of the list1 mins
+Detect loop in a linked list 40 mins
+Assignment Problem 1 on detect loop in the linked list1 mins
+Assignment Problem 2 on detect loop in the linked list1 mins
+Palindrome Linked List40 mins
+Assingment Problem 1 on Palindrome linked list1 mins
+Intersection point of Two Linked Lists 25 mins
+Assignment problem 1 on Intersection of two linked list1 mins
+Alternative split of singly Linked list20 mins
+Assignment problem 1 Alternating split of Linked list1 mins
+Assignment problem 2 Alternating split of linked list1 mins
+Assignment problem 3 Alternating split of linked list1 mins
+Clone List with Random Pointer34 mins
+XOR Linked List - A Memory Efficient Doubly Linked List30 mins
+Add Two numbers16 mins
+Assignment Problem 1 on Add two linked list1 mins
+Split a Circular Linked List into two halves12 mins
+Reverse K alternative nodes in a linked list19 mins
+Assignment Problem 1 on Reverse alternate k nodes1 mins
+Assignment problem 2 on Reverse Alternative K nodes1 mins
+Merge Two Sorted Linked Lists19 mins
+Assignment Problem 1 on Merge Two sorted Linked lists1 mins
+Assignment Problem 2 on Merge Two sorted Linked lists1 mins
+Flattening a Linked List13 mins
+Merge sort for Linked List12 mins
+Assignment problem 1 on Merge sort1 mins
+Union and Intersection of two Linked Lists24 mins
+Assignment problem 1 on Union and intersection1 mins
+Swap Nodes in pairs (practice)1 mins
+Assignment Problem 1 on Swap Nodes in a pairs1 mins
+Find Next Greater Node In a Linked List(practice)1 mins
+Rotate Linked List(practice)1 mins
+Assignment problem 1 on remove duplicates from sorted linked list.1 mins
+Find Middle Element in a linked list22 mins
+Reverse a linked list (Iterative Approach)14 mins
+Remove Duplicates from Sorted linked list19 mins
+Odd Even Linked list18 mins
+Inserted Into a sorted circular linked list25 mins
+Problems on stacks and Queues
+Design a stack such that getMinium() should be O(1) time and O(1) space22 mins
+Print Next Greater Element28 mins
+Design and Implement Special Stack Data Structure. push(), pop(), getMinimum(), findMiddleElement(), deleteMiddleElement()24 mins
+Stock Span Problem24 mins
+Check if parenthesis are balanced or not16 mins
+The Celebrity Problem26 mins
+Reverse a stack using recursion21 mins
+Implement two stacks in single array16 mins
+Petrol Filling Problem 24 mins
+Implement stack using Queues15 mins
+Largest Rectangular Area in a Histogram1 mins
+Write a Program for Implement Queue using Stacks1 mins
+Trapping Rain Water1 mins
+Problems on Trees
+Count number of nodes in the binary tree12 mins
+Check if two trees are identical or not9 mins
+Level Order Tree Traversal16 mins
+Print Level order traversal in spiral form 37 mins
+Convert a Binary Tree into its Mirror Tree15 mins
+Print Ancestors of a given node in Binary Tree20 mins
+Find Lowest Common Ancestor in a Binary Search Tree22 mins
+Print Lowest Common Ancestor in a Binary Tree25 mins
+Children Sum Property in a Binary Tree11 mins
+count leaf nodes in a binary tree10 mins
+Construct a binary tree from inorder and postorder traversals26 mins
+Convert a given tree to its Sum Tree12 mins
+Find the maximum sum leaf to root path in a Binary Tree14 mins
+Find Diameter of a Binary Tree20 mins
+Convert a given Binary Tree to Doubly Linked List14 mins
+Vertical Traversal of binary tree14 mins
+Inorder Tree Traversal without recursion and without stack (Threaded binary tree)21 mins
+Serialize and deserialize of a binay tree23 mins
+Boundary Traversal of a Binary Tree22 mins
+Merge Two binary trees [Leetcode]16 mins
+Range Sum of Binary Search Tree [Leetcode]19 mins
+Trim a BInary Search Tree (Practice Problem)1 mins
+Search in a Binary Search Tree [Leet code]19 mins
+Print Right View of a Binary Tree1 mins
+Invert Binary Tree [Leetcode]17 mins
+Given a binary tree, find its maximum depth. [Leetcode]17 mins
+Path Sum [Leetcode]16 mins
+Leaf-Similar Trees1 mins
+Find the sum of all left leaves in a given binary tree. [Leetcode]14 mins
+Given two binary trees, write a function to check if they are the same or not [Leetcode]15 mins
+All Elements in Two Binary Search Trees [Leetcode]33 mins
+Maximum Binary Tree: Problem Statement [Leetcode]5 mins
+Maximum Binay Tree: Explanation: [LeetCode]10 mins
+Maximum Binay Tree: Python Code: [LeetCode]5 mins
+Binary Tree Pruning: Problem Statement [Leetcode]4 mins
+Binary Tree Pruning: Explanation: [Leetcode]7 mins
+Binary Tree Pruning: Python Code[Leetcode]6 mins
+Validate Binary Search Tree: Problem Statement [Leetcode]5 mins
+Validate Binary Search Tree: Explanation[Part1] : [Leetcode]2 mins
+Validate Binary Search Tree: Explanation[Part2] : Leetcode10 mins
+Validate Binary Search Tree: Python Code : [Leetcode]6 mins
+Validate Binary Search Tree: Iterative Approach: [Leetcode]7 mins
+Binary Tree Zigzag Level Order Traversal: Problem Statement [Leetcode]4 mins
+Binary Tree Zigzag Traversal : Explanation [Leetcode]8 mins
+Binary Tree Zigzag Traversal: Python code [Leetcode]11 mins
+Populating Next Right Pointers in Each Node: Problem Statement [Leetcode]5 mins
+Populating Next Right Pointers in Each Node: Explanation [Leetcode]10 mins
+Populating Next Right Pointers in Each Node: Python code [Leetcode]5 mins
+Problems on Arrays
+Find Missing Number: Level [Easy] 16 mins
+Given a sorted and rotated array, find if there is a pair with a given sum23 mins
+Dutch National Flag Algorithm (Sort 0's, 1's and 2's)19 mins
+Median Of two sorted arrays34 mins
+Inversions in an array24 mins
+Find Leaders in an array15 mins
+Find a sorted triplet in an array19 mins
+Find Majority Element in an array17 mins
+Split an array into equal sum sub arrays11 mins
+Array Product Problem16 mins
+Rotate an array k times18 mins
+Find the Number Occurring Odd Number of Times13 mins
+Find two Missing Numbers in a Sequence of Consecutive Numbers20 mins
+Write a Program for Find the two repeating elements in a given array26 mins
+Rotate Matrix by 90 degrees12 mins
+Merge Overlapping Intervals20 mins
+How Many Numbers Are Smaller Than the Current Number: Problem Statement [Leetcode]5 mins
+How Many Numbers Are Smaller Than the Current Number: Approach1 [Leetcode]5 mins
+How Many Numbers Are Smaller Than the Current Number: Approach2 [Leetcode]8 mins
+How Many Numbers Are Smaller Than the Current Number: Appraoch2 (Python Code): [Leetcode]5 mins
+How Many Numbers Are Smaller Than the Current Number: Approach3 [Leetcode]9 mins
+How Many Numbers Are Smaller Than the Current Number: Approach3(Python Code) [Leetcode]5 mins
+3 Sum : Problem Statement [Leetcode]3 mins
+3 Sum: Brute Force Approach: [Leetcode]5 mins
+3 Sum: Two pointer Approach: [Leetcode]9 mins
+3 Sum: Two pointer Approach[Python code]: [Leetcode]5 mins
+Create Target Array in the Given Order: Problem Statement[Leetcode]6 mins
+Create Target Array in the Given Order: Explanation & Python Code [Leetcode]6 mins
+Sort Array by Parity: Problem Statement [Leetcode]4 mins
+Sort Array by Parity: Approach1 [Leetcode]4 mins
+Sort Array by Parity: Approach2 and Python Code [Leetcode]9 mins
+Replace Elements with Greatest Element on Right Side: Problem Statement [Leetcode]4 mins
+Replace Elements with Greatest Element on Right Side: Approach 1 [Leetcode]4 mins
+Replace Elements with Greatest Element on Right Side: Approach 2 [Leetcode]6 mins
+Replace Elements with Greatest Element on Right Side: Approach 2 (Python Code) [Leetcode]4 mins
+First Missing Positive: Problem Statement [Leetcode]3 mins
+First Missing Positive: Approach 1 [Leetcode]4 mins
+First Missing Positive: Python Code [Leetcode]5 mins
+First Missing Positive: Approach 2 [Leetcode]14 mins
+First Missing Positive: Python Code [Leetcode]6 mins
+Set Matrix Zeros: Problem statement [Leetcode]3 mins
+Set Matrix Zeros: Approach 1 [Leetcode]8 mins
+Set Matrix Zeros: Approach 1(Python Code) [Leetcode]5 mins
+Set MatriX Zeros: Approach 2 [Leetcode]7 mins
+Set Matrix Zeros: Approach 2 (Python Code) [Leetcode]6 mins
+Count Negative numbers in a sorted matrix: Problem statement [Leetcode]4 mins
+Count Negative Numbers in a Sorted Matrix: Approach1[Leetcode]3 mins
+Count Negative Numbers in a Sorted Matrix: Approach 2 [Leetcode]6 mins
+Count Negative Numbers in a Sorted Matrix: Python code [Leetcode]5 mins
+Squares of a Sorted Array1 mins
+Write a program to find duplicate elements in O(n) time and O(1) extra space, for a given array of size 'n'1 mins
+Given an array of integers, sort the array into a wave like array and return it. (arrange the element into a sequence such that a1>=a2<=a3>=a4<=a5----etc.)1 mins
+Write a Program for Maximum difference between two elements such that larger element appears after the smaller number1 mins
+Write a program to find the maximum difference of j - i such that a[j] > a[i], for a given an array of 'n' elements.1 mins
+Write a program to Maximize arr[j] – arr[i] + arr[l] – arr[k], such that i < j < k < l. Find the maximum value of arr[j] – arr[i] + arr[l] – arr[k], such that i < j < k < l1 mins
+Write a Program for Find a triplet that sum to a given value1 mins
+Write a program to find the smallest integer value that can't be represented as sum of any subset of a given array.1 mins
+Problems on strings
+Remove all duplicates from the input string.22 mins
+Reverse words in a given string 15 mins
+Run Length Encoding13 mins
+Remove all adjacent duplicate characters in a string23 mins
+First Non-repeating character in a string12 mins
+Find first non-repeating character in a stream21 mins
+Find the smallest window in a string containing all characters of another string31 mins
+Print all anagrams in a list of words14 mins
+Rearrange Characters to form a palindrome16 mins
+Naive Pattern Matching Algorithm16 mins
+Find maximum occurring character in the input string1 mins
+check if strings are rotations of each other or not1 mins
+Find all distinct palindromic sub strings of a given string1 mins
+Find a excel column name from a given column number.1 mins
+Write a Program for String matching where one string contains wildcard characters1 mins
+String matching algorithm: Boyer Moore Algorithm – Bad Character Heuristic1 mins
+Reorder Data In log files15 mins
+String Matching Algorithms
+Naive Pattern Matching Algorithm 16 mins
+KMP Algorithm - Part 114 mins
+Rabin Karp String matching algorithm25 mins
+Problems on Heap
+K’th Largest/Smallest Element in an array20 mins
+K’th largest element in a stream15 mins
+Find Median in a stream of integers (running integers) (Practice Problem)1 mins
+Connect n ropes with minimum cost16 mins
+Convert min heap to max heap9 mins
+Finding K-Most frequent words in a text-file12 mins
+K Closest points to origin: Problem Statement [Leetcode]5 mins
+K Closest points to origin: Approach1 [Leetcode]7 mins
+K Closest Points to Origin: Approach 2 [Leetcode]7 mins
+K Closest Points to Origin: Python code [Leetcode]8 mins
+Sort a nearly sorted (or K sorted) array1 mins
+Print all elements in sorted order from row and column wise sorted matrix.1 mins
+Merge k sorted arrays1 mins
+Tournament Tree (Winner Tree) and Binary Heap1 mins
+Top K Frequent Words1 mins
+Problems on Divide and Conquer
+Find the missing number in Arithmetic Progression15 mins
+Write a Program for Median of two sorted arrays34 mins
+Write a Program for Find a peak element1 mins
+Write a Program for Count Inversions in an array1 mins
+The skyline problem1 mins
+Problems on Greedy Algorithms
+Given weights and values of n items, we need to put these items in a knapsack of capacity W to get the maximum total value in the knapsack.30 mins
+Minimum Swaps for Bracket Balancing22 mins
+Write a Program Activity Selection Problem25 mins
+Given an array of jobs with different time intervals. Find the minimum time to finish all jobs.40 mins
+Given a universe of n elements, collection of subsets. Find a minimum cost sub collection that covers all elements.1 mins
+Water Connection Problem1 mins
+Problems on Backtracking
+Write a Program for N Queen Problem16 mins
+Write a Program for Sudoku35 mins
+Write a Program for Rat in a Maze25 mins
+Letter Combinations of a phone number: Problem Statement [Leetcode]4 mins
+Letter combinations of a phone number: Explanation [Leetcode]8 mins
+Letter combinations of a phone number: Python Code [Leetcode]7 mins
+Write a Program to print all permutations of a given string1 mins
+Write a Program The Knight’s tour problem1 mins
+Subsets1 mins
+Problems on Searching and Sorting
+Sort an array of 0's, 1's and 2's19 mins
+K’th Smallest/Largest Element in Unsorted Array20 mins
+Wiggle Sort: Problem Statement [Leetcode]5 mins
+Wiggle Sort : Approach 1 [Leetcode]4 mins
+Wiggle Sort: Python code [Leetcode]2 mins
+Wiggle Sort: Approach 2 [Leetcode]6 mins
+Wiggle Sort: Python code [Leetcode]5 mins
+Count 1’s in a sorted binary array1 mins
+Sort a nearly sorted (or K sorted) array1 mins
+Problems on Graphs
+Write a Program for Check whether a given graph is Bipartite or not23 mins
+Clone Graph: Problem Statement [Leetcode]7 mins
+Clone Graph: Explanation [Leetcode]12 mins
+Clone Graph: Python Code [Leetcode]5 mins
+Write a Program for Detect cycle in an undirected graph1 mins
+Given a boolean 2D matrix, find the number of islands. A group of connected 1s forms an island.1 mins
+Redundant connections1 mins
+Bit Manipulation
+Single Number 11: Problem Statement [Leetcode]4 mins
+Single Number 11: Approach 1 [Leetcode]5 mins
+Single Number 11: Python code [Leetcode]5 mins
+Single Number 11: Approach 2 [Leetcode]12 mins
+Single Number 11: Python code [Leetcode]3 mins
