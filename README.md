@@ -640,3 +640,22 @@ Single Number 11: Approach 1 [Leetcode]5 mins
 Single Number 11: Python code [Leetcode]5 mins
 Single Number 11: Approach 2 [Leetcode]12 mins
 Single Number 11: Python code [Leetcode]3 mins
+
+# (5) AAIP Advanced Data Structures and Algorithms (330 mins = 5.5 hours)
+
+Trie
+	Tries33 mins
+Red Black Trees
+	Red black Trees31 mins
+	Red Black Tree - Deletion18 mins
+B-Trees & B+ Trees
+	Files and Indexing: introduction46 mins
+	B-Trees and B+ Trees with examples58 mins
+	More Solved Problems14 mins
+	Terminology related to Indexes9 mins
+Ternary search Tree
+	Ternary Search Tree35 mins
+LRU Cache Replacement Algorithm
+	Page replacement Strategies34 mins
+	LRU, Optimal-replacement Algorithm52 mins
+Splay Trees
