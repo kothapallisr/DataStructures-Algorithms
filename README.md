@@ -10,7 +10,7 @@ Insertion Sort (94 mins)
 	In-place sorting 8 mins
 	Stable sort 15 mins
 	Online sorting 10 mins
-Analyzing an algorithm.
+Analyzing an algorithm. (46 mins)
 	Model of computation 17 mins
 	Space and time analysis of Insertion Sort-1 7 mins
 	Space and time analysis of Insertion Sort-2 22 mins
