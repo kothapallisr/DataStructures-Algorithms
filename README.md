@@ -14,7 +14,7 @@ Analyzing an algorithm. (46 mins)
 	Model of computation 17 mins
 	Space and time analysis of Insertion Sort-1 7 mins
 	Space and time analysis of Insertion Sort-2 22 mins
-Big O, Theta, Omega notation
+Big O, Theta, Omega notation (126 mins)
 	Insertion sort: Big O-notation 15 mins
 	Notations: Big O 15 mins
 	Notations: Big Omega, Theta 9 mins
