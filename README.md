@@ -22,16 +22,16 @@ Big O, Theta, Omega notation (126 mins)
 	Relationships between various notations 21 mins
 	Order of common functions & real world applications. 26 mins
 	Why does asymptotic analysis matter in the real world? 16 mins
-Solved Problems: Big O, Theta, Omega notation.
-	Solved Problem: Polynomials18 mins
-	Solved Problem: n>n0 case5 mins
-	Solved Problem:16 mins
-	Solved Problem210 mins
-	Solved Problem 312 mins
-	Solved Problem 49 mins
-	Solved Problem 55 mins
-	Solved Problem 65 mins
-	Solved Problem 76 mins
+Solved Problems: Big O, Theta, Omega notation. (76 mins)
+	Solved Problem: Polynomials 18 mins
+	Solved Problem: n>n0 case 5 mins
+	Solved Problem:1 6 mins
+	Solved Problem 2 10 mins
+	Solved Problem 3 12 mins
+	Solved Problem 4 9 mins
+	Solved Problem 5 5 mins
+	Solved Problem 6 5 mins
+	Solved Problem 7 6 mins
 Merge Sort
 	Why learn another sorting algorithm? 6 mins
 	How it works: Intuition 17 mins
