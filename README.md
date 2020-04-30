@@ -32,7 +32,7 @@ Solved Problems: Big O, Theta, Omega notation. (76 mins)
 	Solved Problem 5 5 mins
 	Solved Problem 6 5 mins
 	Solved Problem 7 6 mins
-Merge Sort
+Merge Sort (101 mins)
 	Why learn another sorting algorithm? 6 mins
 	How it works: Intuition 17 mins
 	Pseudo Code 19 mins
