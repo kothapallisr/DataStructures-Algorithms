@@ -39,14 +39,14 @@ Merge Sort (101 mins)
 	Merge sort: Analysing time & space complexity 21 mins
 	Recursion tree method: intuition 13 mins
 	External Merge-Sort 25 mins
-Solved Problems of Merge sort
+Solved Problems of Merge sort (14 mins)
 	Solved Problem 1 5 mins
 	Solved problem 2 4 mins
 	Solved Problem 3 5 mins
-Bubble Sort
-	How it works: intuition + code22 mins
-	Space and time complexity9 mins
-	When to use Bubble sort?5 mins
+Bubble Sort (36 mins)
+	How it works: intuition + code 22 mins
+	Space and time complexity 9 mins
+	When to use Bubble sort? 5 mins
 solved problems of Bubble sort
 	Solved Problems 18 mins
 	Solved Problem 22 mins
