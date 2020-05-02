@@ -47,16 +47,16 @@ Bubble Sort (36 mins)
 	How it works: intuition + code 22 mins
 	Space and time complexity 9 mins
 	When to use Bubble sort? 5 mins
-solved problems of Bubble sort
+solved problems of Bubble sort (40 mins)
 	Solved Problems 18 mins
 	Solved Problem 22 mins
- Quick Sort
-	Why do we need another sorting algorithm?5 mins
-	How it works: intuition13 mins
-	Partitioning15 mins
-	Quick sort by recursion10 mins
-	Time complexity: Best and Worst cases.16 mins
-	Randomized quicksort and amortized analysis8 mins
+ Quick Sort (67 mins)
+	Why do we need another sorting algorithm? 5 mins
+	How it works: intuition 13 mins
+	Partitioning 15 mins
+	Quick sort by recursion 10 mins
+	Time complexity: Best and Worst cases. 16 mins
+	Randomized quicksort and amortized analysis 8 mins
 Sample Questions on Quicksort
 	Solved Problem 13 mins
 	Solved Problem 23 mins
