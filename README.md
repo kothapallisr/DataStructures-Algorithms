@@ -57,7 +57,7 @@ solved problems of Bubble sort (40 mins)
 	Quick sort by recursion 10 mins
 	Time complexity: Best and Worst cases. 16 mins
 	Randomized quicksort and amortized analysis 8 mins
-Sample Questions on Quicksort
+Sample Questions on Quicksort (300 mins)
 	Solved Problem 13 mins
 	Solved Problem 23 mins
 	Solved Problem 34 mins
