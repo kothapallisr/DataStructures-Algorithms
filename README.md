@@ -65,10 +65,10 @@ Sample Questions on Quicksort (300 mins)
 	Solved Problem 52 mins
 	Solved Problem 63 mins
 	Solved Problem 73 mins
-Selection Sort
-	How it works: intuition + code11 mins
-	Space and time complexity.7 mins
-	When to use Selection sort?4 mins
+Selection Sort (22 mins)
+	How it works: intuition + code 11 mins
+	Space and time complexity. 7 mins
+	When to use Selection sort? 4 mins
  Solved Problems of Selection sort
 	Sample Problem 11 mins
 	Sample Problem 21 mins
