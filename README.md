@@ -69,7 +69,7 @@ Selection Sort (22 mins)
 	How it works: intuition + code 11 mins
 	Space and time complexity. 7 mins
 	When to use Selection sort? 4 mins
- Solved Problems of Selection sort
+ Solved Problems of Selection sort (104 mins)
 	Sample Problem 11 mins
 	Sample Problem 21 mins
 	Sample Problem 31 mins
