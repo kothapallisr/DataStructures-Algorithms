@@ -74,12 +74,12 @@ Selection Sort (22 mins)
 	Sample Problem 21 mins
 	Sample Problem 31 mins
 	Sample Problem 41 mins
-Linear Time Sorting
-	Lower bounds on worst case of comparison sorting30 mins
-	Counting sort: intuition + code19 mins
-	Space and time complexity4 mins
-	Radix Sort6 mins
-	Where to use which sorting algorithm?8 mins
+Linear Time Sorting (67 mins)
+	Lower bounds on worst case of comparison sorting 30 mins
+	Counting sort: intuition + code 19 mins
+	Space and time complexity 4 mins
+	Radix Sort 6 mins
+	Where to use which sorting algorithm? 8 mins
 Solved Problems of Linear time sorting
 	Solved Problem 16 mins
 
