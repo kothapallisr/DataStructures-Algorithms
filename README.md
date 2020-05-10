@@ -80,14 +80,14 @@ Linear Time Sorting (67 mins)
 	Space and time complexity 4 mins
 	Radix Sort 6 mins
 	Where to use which sorting algorithm? 8 mins
-Solved Problems of Linear time sorting
+Solved Problems of Linear time sorting (16 mins)
 	Solved Problem 16 mins
 
 # (2) AAIP Data Structures (1851 mins = 30.9 hours)
 
-Data Structures: Introduction
-	What are Data Structures?12 mins
-Arrays as a data-structure
+Data Structures: Introduction (12 mins)
+	What are Data Structures? 12 mins
+Arrays as a data-structure (48 mins)
 	One-dimensional array 17 mins
 	Multi-dimensional array 31 mins
 Special types of 2D arrays
