@@ -90,13 +90,13 @@ Data Structures: Introduction (12 mins)
 Arrays as a data-structure (48 mins)
 	One-dimensional array 17 mins
 	Multi-dimensional array 31 mins
-Special types of 2D arrays
+Special types of 2D arrays (27 mins)
 	Symmetric matrix 12 mins
 	Lower triangular matrix & Diagonal matrix 8 mins
 	Tridiagonal matrix, Z-matrix, Toeplitz Matrix 7 mins
-Dynamic arrays & Amortized time
+Dynamic arrays & Amortized time (32 mins)
 	Dynamic arrays & Amortized time 20 mins
-	Where do arrays fail?12 mins
+	Where do arrays fail? 12 mins
 Solved Problems
 	Solved Problem 1 4 mins
 	Solved Problem 2 5 mins
