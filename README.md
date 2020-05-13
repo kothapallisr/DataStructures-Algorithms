@@ -97,7 +97,7 @@ Special types of 2D arrays (27 mins)
 Dynamic arrays & Amortized time (32 mins)
 	Dynamic arrays & Amortized time 20 mins
 	Where do arrays fail? 12 mins
-Solved Problems
+Solved Problems (38 mins)
 	Solved Problem 1 4 mins
 	Solved Problem 2 5 mins
 	Solved Problem 3 3 mins
