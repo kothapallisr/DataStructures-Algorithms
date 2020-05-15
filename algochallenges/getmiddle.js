@@ -6,7 +6,6 @@ function getMiddle(str) {
 }
 
 console.log(getMiddle("test"));
-console.log(getMiddle("testing"));
 console.log(getMiddle("racecar"));
 console.log(getMiddle("middle"));
 console.log(getMiddle("A"));
