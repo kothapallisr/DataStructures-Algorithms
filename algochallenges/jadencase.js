@@ -11,3 +11,4 @@ function toJadenCase(str) {
 }
 
 console.log(toJadenCase("How can mirrors be real if our eyes aren't real"));
+console.log(toJadenCase("rise above the rest"));
